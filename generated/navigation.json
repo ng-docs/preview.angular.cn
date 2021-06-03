@@ -1370,14 +1370,14 @@
     "patch": 0,
     "prerelease": [
       "build",
-      "226"
+      "227"
     ],
-    "build": "sha.19068001",
-    "version": "12.1.0-build.226",
+    "build": "sha.1b26ce40",
+    "version": "12.1.0-build.227",
     "codeName": "snapshot",
     "isSnapshot": true,
-    "full": "12.1.0-build.226+sha.19068001",
+    "full": "12.1.0-build.227+sha.1b26ce40",
     "branch": "master",
-    "commitSHA": "1906800148ccf2fd82585f3dee83dbdda668e1b3"
+    "commitSHA": "1b26ce4008bb0342a6d94d3f0d6552f3c0c24b9c"
   }
 }
